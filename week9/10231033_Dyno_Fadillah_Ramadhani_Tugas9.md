@@ -261,4 +261,6 @@ Struktur ini mengorganisir kode berdasarkan:
 
 ---
 
-Link Github Repository : https://github.com/brosora6/sora.git
+Link Github Repository untuk website : https://github.com/brosora6/sora.git
+
+Link Github Repository untuk Laporan https://github.com/justdyn/laporan_proweb.git
